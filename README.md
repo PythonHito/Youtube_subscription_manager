@@ -1,5 +1,6 @@
 # Youtube_subscription_manager
 
+**I move the project to gitlab. To join the project click [here](https://gitlab.com/sawyerf/Youtube_subscription_manager).**
 
 [![PyPI](http://img.shields.io/pypi/v/youtube-sm.svg)](http://pypi.python.org/pypi/youtube-sm/) [![GitLab](https://sawyerf.github.io/youtube_sm/gitlab.jpg)](https://gitlab.com/sawyerf/Youtube_subscription_manager) 
 
